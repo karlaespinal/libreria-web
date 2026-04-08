@@ -21,4 +21,4 @@ Este es un sistema web de gestión de libros y autores desarrollado en PHP y MyS
 
 ## 👨‍💻 Autor
 
-Luis Espinal
+Karla Espinal
